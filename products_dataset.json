@@ -1,0 +1,2976 @@
+[{
+  "_id": {
+    "$oid": "42615dca70e64bc625149d1b"
+  },
+  "name": "Semoule Brahim Extra 2kg",
+  "brand": "Brahim",
+  "description": "Semoule extra fine pour couscous",
+  "category": "Groceries",
+  "price": 220,
+  "unit": "kg",
+  "stock": 200,
+  "status": "active",
+  "expiry": "2026-06-30",
+  "aisle": "A1",
+  "barcode": "6191508000002",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0002/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-05-27T10:34:25.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "73eb83cc29d4903dd955ed8b"
+  },
+  "name": "Riz Camolino 5kg",
+  "brand": "Bel Rym",
+  "description": "Riz rond camolino égyptien",
+  "category": "Groceries",
+  "price": 750,
+  "unit": "kg",
+  "stock": 100,
+  "status": "active",
+  "expiry": "2026-12-31",
+  "aisle": "A2",
+  "barcode": "6191508000005",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0005/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan",
+    "Gluten-Free"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-26T19:37:04.353Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "75e1931696376e5b141f7c47"
+  },
+  "name": "Pois chiches 1kg",
+  "brand": "Ramy",
+  "description": "Pois chiches secs",
+  "category": "Groceries",
+  "price": 195,
+  "unit": "kg",
+  "stock": 130,
+  "status": "active",
+  "expiry": "2027-06-30",
+  "aisle": "A3",
+  "barcode": "6191508000008",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0008/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Vegan",
+    "Vegetarian",
+    "Gluten-Free",
+    "High-Protein"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-02-08T12:00:17.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4cde7d38612ccdfc6cccc906"
+  },
+  "name": "Tomate concentrée Aïcha 800g",
+  "brand": "Aïcha",
+  "description": "Concentré de tomate double",
+  "category": "Groceries",
+  "price": 145,
+  "unit": "g",
+  "stock": 200,
+  "status": "active",
+  "expiry": "2026-07-31",
+  "aisle": "A4",
+  "barcode": "6191508000009",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0009/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Vegan",
+    "Halal"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-01T06:27:31.466Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4ec245a570703b590c12ee22"
+  },
+  "name": "Thé Elephant 100 sachets",
+  "brand": "Elephant",
+  "description": "Thé noir en sachets",
+  "category": "Groceries",
+  "price": 290,
+  "unit": "piece",
+  "stock": 110,
+  "status": "active",
+  "expiry": "2026-10-31",
+  "aisle": "A5",
+  "barcode": "6191508000012",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0012/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-05-15T18:01:27.703Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5784c27045b03ab9e1298baf"
+  },
+  "name": "Sel de table iodé 1kg",
+  "brand": "Salines",
+  "description": "Sel iodé fin",
+  "category": "Groceries",
+  "price": 45,
+  "unit": "kg",
+  "stock": 400,
+  "status": "active",
+  "expiry": "2028-01-01",
+  "aisle": "A6",
+  "barcode": "6191508000013",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0013/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-27T11:22:52.050Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e65a36bdc3d3589e86aae310"
+  },
+  "name": "Huile d'olive extra vierge 1L",
+  "brand": "Tafna",
+  "description": "Huile d'olive vierge extra froide",
+  "category": "Groceries",
+  "price": 950,
+  "unit": "L",
+  "stock": 75,
+  "status": "expiring-soon",
+  "expiry": "2025-12-31",
+  "aisle": "A1",
+  "barcode": "6191508000015",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0015/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan",
+    "Keto"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-03-20T14:31:58.048Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "27b5d9ac0578a9fa11972445"
+  },
+  "name": "Couscous fin Brahim 1kg",
+  "brand": "Brahim",
+  "description": "Couscous fin prêt à cuire",
+  "category": "Groceries",
+  "price": 130,
+  "unit": "kg",
+  "stock": 220,
+  "status": "active",
+  "expiry": "2026-12-31",
+  "aisle": "A2",
+  "barcode": "6191508000016",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0016/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-09T14:17:35.345Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "decfd0d28a2bf793d8112b01"
+  },
+  "name": "Fromage fondu Kiri x8",
+  "brand": "Kiri",
+  "description": "Fromage fondu à tartiner en portions",
+  "category": "Dairy",
+  "price": 350,
+  "unit": "piece",
+  "stock": 90,
+  "status": "active",
+  "expiry": "2026-04-30",
+  "aisle": "B2",
+  "barcode": "6191508000025",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0025/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-08-28T21:26:10.878Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bf089ede23ff5b026d0aaad5"
+  },
+  "name": "Pain de mie Moulin d'Or 500g",
+  "brand": "Moulin d'Or",
+  "description": "Pain de mie moelleux tranché",
+  "category": "Bakery",
+  "price": 155,
+  "unit": "g",
+  "stock": 130,
+  "status": "expiring-soon",
+  "expiry": "2025-12-20",
+  "aisle": "C1",
+  "barcode": "6191508000029",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0029/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-24T22:40:30.097Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9394ba2c50ddeaeb672fcf6d"
+  },
+  "name": "Ghribia (biscuits sablés) 400g",
+  "brand": "Local",
+  "description": "Biscuits sablés aux amandes",
+  "category": "Bakery",
+  "price": 250,
+  "unit": "g",
+  "stock": 80,
+  "status": "active",
+  "expiry": "2026-03-31",
+  "aisle": "C1",
+  "barcode": "6191508000030",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0030/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs",
+    "Nuts"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-03-26T00:29:46.906Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0027ae177b6de589e940ec4b"
+  },
+  "name": "Jus d'orange Cojek 1L",
+  "brand": "Cojek",
+  "description": "Jus d'orange sans sucre ajouté",
+  "category": "Beverages",
+  "price": 185,
+  "unit": "L",
+  "stock": 200,
+  "status": "active",
+  "expiry": "2026-06-30",
+  "aisle": "D1",
+  "barcode": "6191508000038",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0038/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-02-23T00:02:29.194Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2c20475d9ac48ad54951b416"
+  },
+  "name": "Red Bull 250ml",
+  "brand": "Red Bull",
+  "description": "Boisson énergisante",
+  "category": "Beverages",
+  "price": 320,
+  "unit": "ml",
+  "stock": 120,
+  "status": "active",
+  "expiry": "2026-09-30",
+  "aisle": "D2",
+  "barcode": "6191508000041",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0041/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-17T12:35:59.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "af58722f8d9f36fcc7600bc9"
+  },
+  "name": "Café Nescafé Classic 200g",
+  "brand": "Nescafé",
+  "description": "Café soluble instantané",
+  "category": "Beverages",
+  "price": 680,
+  "unit": "g",
+  "stock": 85,
+  "status": "active",
+  "expiry": "2026-11-30",
+  "aisle": "D3",
+  "barcode": "6191508000042",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0042/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-03T06:49:44.078Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7ff1178328f153b3d460cac6"
+  },
+  "name": "Jus multivitamines Cojek 1L",
+  "brand": "Cojek",
+  "description": "Jus de fruits multivitaminés",
+  "category": "Beverages",
+  "price": 195,
+  "unit": "L",
+  "stock": 150,
+  "status": "active",
+  "expiry": "2026-05-31",
+  "aisle": "D1",
+  "barcode": "6191508000043",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0043/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-19T09:23:26.274Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3700c9999b8ab76fb50fe73c"
+  },
+  "name": "Lait chocolaté Candia 1L",
+  "brand": "Candia",
+  "description": "Boisson lactée chocolatée",
+  "category": "Beverages",
+  "price": 195,
+  "unit": "L",
+  "stock": 130,
+  "status": "active",
+  "expiry": "2026-02-28",
+  "aisle": "D3",
+  "barcode": "6191508000044",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0044/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-10T15:40:14.571Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3afc7cc534c2933ea9c00a44"
+  },
+  "name": "Viande hachée bœuf 500g",
+  "brand": "Local",
+  "description": "Viande hachée bœuf fraîche halal",
+  "category": "Meat",
+  "price": 750,
+  "unit": "g",
+  "stock": 60,
+  "status": "expiring-soon",
+  "expiry": "2025-12-17",
+  "aisle": "E1",
+  "barcode": "6191508000048",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0048/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Keto"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-03-19T10:42:40.776Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3b6f16c19bb3439c231b268f"
+  },
+  "name": "Merguez halal 500g",
+  "brand": "Staïfi",
+  "description": "Merguez épicées halal",
+  "category": "Meat",
+  "price": 680,
+  "unit": "g",
+  "stock": 70,
+  "status": "expiring-soon",
+  "expiry": "2025-12-20",
+  "aisle": "E1",
+  "barcode": "6191508000049",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0049/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-11-19T09:18:22.493Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "aa324aecd1264303238816b6"
+  },
+  "name": "Gel douche Dove 500ml",
+  "brand": "Dove",
+  "description": "Gel douche hydratant lait de coco",
+  "category": "Beauty",
+  "price": 620,
+  "unit": "ml",
+  "stock": 100,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F2",
+  "barcode": "6191508000057",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0057/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-25T02:52:40.843Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b0620cbd0360413a6b620117"
+  },
+  "name": "Savon Lux x3",
+  "brand": "Lux",
+  "description": "Savon de toilette parfumé lot de 3",
+  "category": "Beauty",
+  "price": 240,
+  "unit": "piece",
+  "stock": 150,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F2",
+  "barcode": "6191508000059",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0059/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-09T16:11:06.815Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66bb758442909bac6452817b"
+  },
+  "name": "Parfum Hamam Zhar 100ml",
+  "brand": "Rasasi",
+  "description": "Eau de parfum oriental oud",
+  "category": "Beauty",
+  "price": 1850,
+  "unit": "ml",
+  "stock": 40,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F3",
+  "barcode": "6191508000064",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0064/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-30T13:33:14.390Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "add47caeb9f46711747fd369"
+  },
+  "name": "Écouteurs Bluetooth TWS",
+  "brand": "Oraimo",
+  "description": "Écouteurs sans fil TWS avec boîtier",
+  "category": "Electronics",
+  "price": 2800,
+  "unit": "piece",
+  "stock": 60,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G2",
+  "barcode": "6191508000067",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0067/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-27T03:57:00.065Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "304ddfb9f1e069bd34615b98"
+  },
+  "name": "Ballon de foot taille 5",
+  "brand": "Adidas",
+  "description": "Ballon football homologué FIFA taille 5",
+  "category": "Sports",
+  "price": 2800,
+  "unit": "piece",
+  "stock": 45,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I1",
+  "barcode": "6191508000081",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0081/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-05T16:02:44.553Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "39dbc3bc42711b148720cc55"
+  },
+  "name": "Protéine whey 1kg chocolat",
+  "brand": "MaxMuscle",
+  "description": "Whey protéine chocolat 1kg",
+  "category": "Sports",
+  "price": 4500,
+  "unit": "kg",
+  "stock": 30,
+  "status": "active",
+  "expiry": "2026-06-30",
+  "aisle": "I3",
+  "barcode": "6191508000085",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0085/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose",
+    "Soy"
+  ],
+  "suitableFor": [
+    "Sport",
+    "High-Protein"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-05-01T02:43:51.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0f1bee2de00219a697ace1b2"
+  },
+  "name": "Bande de résistance x3",
+  "brand": "Phoenix",
+  "description": "Set 3 bandes élastiques résistance",
+  "category": "Sports",
+  "price": 1200,
+  "unit": "piece",
+  "stock": 60,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I2",
+  "barcode": "6191508000087",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0087/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-09T09:49:16.986Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c42f92fa202461e5d93f570c"
+  },
+  "name": "Détergent Ariel 3kg",
+  "brand": "Ariel",
+  "description": "Lessive poudre couleurs 3kg",
+  "category": "Home",
+  "price": 980,
+  "unit": "kg",
+  "stock": 100,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J1",
+  "barcode": "6191508000089",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0089/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-09T22:06:09.946Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ca2d92f85f2b414a948c7df9"
+  },
+  "name": "Sucre Cristallisé 5kg",
+  "brand": "CEVITAL",
+  "description": "Sucre blanc cristallisé",
+  "category": "Groceries",
+  "price": 480,
+  "unit": "kg",
+  "stock": 150,
+  "status": "active",
+  "expiry": "2027-01-01",
+  "aisle": "A2",
+  "barcode": "6191508000004",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0004/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-02T22:45:05.162Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "761bcb44983244fb5eacdbae"
+  },
+  "name": "Lentilles vertes 1kg",
+  "brand": "Ramy",
+  "description": "Lentilles vertes sèches",
+  "category": "Groceries",
+  "price": 185,
+  "unit": "kg",
+  "stock": 140,
+  "status": "active",
+  "expiry": "2027-06-30",
+  "aisle": "A3",
+  "barcode": "6191508000007",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0007/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Vegan",
+    "Vegetarian",
+    "Gluten-Free",
+    "High-Protein"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-24T10:24:47.580Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "37f7fa542856f6982c246ddf"
+  },
+  "name": "Miel naturel Tazart 500g",
+  "brand": "Tazart",
+  "description": "Miel de montagne pur Kabylie",
+  "category": "Groceries",
+  "price": 1200,
+  "unit": "g",
+  "stock": 50,
+  "status": "active",
+  "expiry": "2027-06-30",
+  "aisle": "A6",
+  "barcode": "6191508000014",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0014/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-26T02:55:15.567Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "eca04497a1fd6062600b21cc"
+  },
+  "name": "Levure chimique Alsa 8g x12",
+  "brand": "Alsa",
+  "description": "Levure chimique pour gâteaux",
+  "category": "Groceries",
+  "price": 120,
+  "unit": "piece",
+  "stock": 250,
+  "status": "active",
+  "expiry": "2026-07-31",
+  "aisle": "A6",
+  "barcode": "6191508000018",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0018/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten"
+  ],
+  "suitableFor": [
+    "Vegetarian",
+    "Halal"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-14T21:56:11.998Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "04fe3d035a442703f616d167"
+  },
+  "name": "Fromage Edam Président 200g",
+  "brand": "Président",
+  "description": "Fromage Edam en portion",
+  "category": "Dairy",
+  "price": 380,
+  "unit": "g",
+  "stock": 80,
+  "status": "active",
+  "expiry": "2026-03-31",
+  "aisle": "B2",
+  "barcode": "6191508000021",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0021/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-22T05:53:59.566Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b0c9c75cbc9f523613f14543"
+  },
+  "name": "Crème fraîche Soummam 200ml",
+  "brand": "Soummam",
+  "description": "Crème fraîche épaisse 30% MG",
+  "category": "Dairy",
+  "price": 165,
+  "unit": "ml",
+  "stock": 100,
+  "status": "expiring-soon",
+  "expiry": "2025-12-20",
+  "aisle": "B1",
+  "barcode": "6191508000023",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0023/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian",
+    "Keto"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-11T15:01:08.364Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "c6daefad13c431787f8409e8"
+  },
+  "name": "Lait écrémé Candia 1L",
+  "brand": "Candia",
+  "description": "Lait écrémé 0% MG",
+  "category": "Dairy",
+  "price": 135,
+  "unit": "L",
+  "stock": 140,
+  "status": "expiring-soon",
+  "expiry": "2025-12-31",
+  "aisle": "B1",
+  "barcode": "6191508000027",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0027/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian",
+    "Low-Carb"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-22T04:19:05.933Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3f85b6015f504988fae2debc"
+  },
+  "name": "Brioche Hatem 400g",
+  "brand": "Hatem",
+  "description": "Brioche moelleuse tranchée",
+  "category": "Bakery",
+  "price": 180,
+  "unit": "g",
+  "stock": 100,
+  "status": "expiring-soon",
+  "expiry": "2025-12-22",
+  "aisle": "C1",
+  "barcode": "6191508000033",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0033/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs",
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-07-28T17:41:05.000Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ac35f2faea14e17db2a0cd41"
+  },
+  "name": "Poulet entier halal ~1.5kg",
+  "brand": "AVICOOP",
+  "description": "Poulet entier élevé en plein air",
+  "category": "Meat",
+  "price": 480,
+  "unit": "kg",
+  "stock": 80,
+  "status": "expiring-soon",
+  "expiry": "2025-12-18",
+  "aisle": "E1",
+  "barcode": "6191508000047",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0047/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Keto"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-02T17:00:34.517Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "892dfc906bd4165885c248d8"
+  },
+  "name": "Sardines fraîches 1kg",
+  "brand": "Local",
+  "description": "Sardines fraîches de Méditerranée",
+  "category": "Meat",
+  "price": 350,
+  "unit": "kg",
+  "stock": 40,
+  "status": "expiring-soon",
+  "expiry": "2025-12-17",
+  "aisle": "E2",
+  "barcode": "6191508000051",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0051/front_fr.3.400.jpg",
+  "allergens": [
+    "Fish"
+  ],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Gluten-Free"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-20T18:13:59.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8907a502a455021eeca98481"
+  },
+  "name": "Filets de poulet surgelés 1kg",
+  "brand": "AVICOOP",
+  "description": "Filets de poulet surgelés IQF",
+  "category": "Meat",
+  "price": 890,
+  "unit": "kg",
+  "stock": 65,
+  "status": "active",
+  "expiry": "2026-06-30",
+  "aisle": "E3",
+  "barcode": "6191508000053",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0053/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Keto",
+    "Low-Carb"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-13T00:56:18.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "40f7ec13910d566c667ca9e7"
+  },
+  "name": "Shampoing Pantene 400ml",
+  "brand": "Pantene",
+  "description": "Shampoing réparateur cheveux secs",
+  "category": "Beauty",
+  "price": 680,
+  "unit": "ml",
+  "stock": 90,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F1",
+  "barcode": "6191508000055",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0055/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-09T11:24:51.432Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "0c3a43ced87159a40a8f638d"
+  },
+  "name": "Crème visage Nivea Q10 50ml",
+  "brand": "Nivea",
+  "description": "Crème anti-rides jour Q10",
+  "category": "Beauty",
+  "price": 950,
+  "unit": "ml",
+  "stock": 70,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F1",
+  "barcode": "6191508000056",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0056/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-20T11:49:04.054Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9c6c7ccc156bd0c8878db812"
+  },
+  "name": "Déodorant Axe 150ml",
+  "brand": "Axe",
+  "description": "Déodorant spray anti-transpirant",
+  "category": "Beauty",
+  "price": 550,
+  "unit": "ml",
+  "stock": 85,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F2",
+  "barcode": "6191508000058",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0058/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-01T01:51:52.974Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "91a48d32f4c2bbefb77ffd4e"
+  },
+  "name": "Ampoule LED 12W E27",
+  "brand": "Philips",
+  "description": "Ampoule LED blanc chaud 12W",
+  "category": "Electronics",
+  "price": 380,
+  "unit": "piece",
+  "stock": 200,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G3",
+  "barcode": "6191508000070",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0070/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-20T14:19:46.877Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fe4f7d043e1c12f43eeeee21"
+  },
+  "name": "Bonnet laine hiver",
+  "brand": "Cotoon",
+  "description": "Bonnet en laine chaud hiver",
+  "category": "Clothing",
+  "price": 650,
+  "unit": "piece",
+  "stock": 90,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H3",
+  "barcode": "6191508000080",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0080/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-07-14T05:30:34.561Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8066215adcf80cbc88e9e3a7"
+  },
+  "name": "Gants de boxe 10oz",
+  "brand": "Phoenix",
+  "description": "Gants de boxe entraînement 10oz",
+  "category": "Sports",
+  "price": 2200,
+  "unit": "piece",
+  "stock": 35,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I2",
+  "barcode": "6191508000086",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0086/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-28T22:27:29.712Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ff6cfffcf5422fddd2efd763"
+  },
+  "name": "Liquide vaisselle Ajax 1L",
+  "brand": "Ajax",
+  "description": "Liquide vaisselle citron antibactérien",
+  "category": "Home",
+  "price": 290,
+  "unit": "L",
+  "stock": 150,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J1",
+  "barcode": "6191508000090",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0090/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-02-03T09:09:37.676Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e889f96b75bea682f10ec126"
+  },
+  "name": "Désodorisant Glade 300ml",
+  "brand": "Glade",
+  "description": "Désodorisant spray fleurs printanières",
+  "category": "Home",
+  "price": 480,
+  "unit": "ml",
+  "stock": 120,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J2",
+  "barcode": "6191508000091",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0091/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-08-20T14:27:51.891Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "4c5ffd38a0edb19e31a7ed89"
+  },
+  "name": "Nettoyant WC Canard 750ml",
+  "brand": "Canard",
+  "description": "Gel nettoyant WC détartrant",
+  "category": "Home",
+  "price": 320,
+  "unit": "ml",
+  "stock": 130,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J1",
+  "barcode": "6191508000093",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0093/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-08T10:24:14.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ae6651f8f64f2d1a6b9d602d"
+  },
+  "name": "Éponge vaisselle x5",
+  "brand": "Scotch-Brite",
+  "description": "Éponges récurantes lot de 5",
+  "category": "Home",
+  "price": 180,
+  "unit": "piece",
+  "stock": 250,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J2",
+  "barcode": "6191508000094",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0094/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-02-23T18:55:55.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a8586b22465a326f1c6bcfcb"
+  },
+  "name": "Assiettes plates x6",
+  "brand": "Luminarc",
+  "description": "Service 6 assiettes plates en verre",
+  "category": "Home",
+  "price": 1450,
+  "unit": "piece",
+  "stock": 45,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J3",
+  "barcode": "6191508000097",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0097/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-11-06T20:04:49.486Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2149e1a791336e0a523689fe"
+  },
+  "name": "Poêle antiadhésive 28cm",
+  "brand": "Tefal",
+  "description": "Poêle aluminium antiadhésive Tefal",
+  "category": "Home",
+  "price": 3200,
+  "unit": "piece",
+  "stock": 40,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J4",
+  "barcode": "6191508000099",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0099/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-15T12:45:26.806Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a9bab34fa138baf58b194b42"
+  },
+  "name": "Serviettes de bain x4",
+  "brand": "Hitroc",
+  "description": "Set 4 serviettes coton 70x140cm",
+  "category": "Home",
+  "price": 2800,
+  "unit": "piece",
+  "stock": 55,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J4",
+  "barcode": "6191508000100",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0100/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-05-13T14:45:17.542Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7a746ed30efb213205eb9abd"
+  },
+  "name": "Farine Générale 5kg",
+  "brand": "ERIAD",
+  "description": "Farine blanche tout usage",
+  "category": "Groceries",
+  "price": 310,
+  "unit": "kg",
+  "stock": 180,
+  "status": "active",
+  "expiry": "2026-09-30",
+  "aisle": "A1",
+  "barcode": "6191508000003",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0003/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-12T11:32:24.653Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "509f1e16e12bf39f48bbc041"
+  },
+  "name": "Café Najah 250g",
+  "brand": "Najah",
+  "description": "Café moulu arabica",
+  "category": "Groceries",
+  "price": 420,
+  "unit": "g",
+  "stock": 90,
+  "status": "active",
+  "expiry": "2026-05-31",
+  "aisle": "A5",
+  "barcode": "6191508000011",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0011/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-05T18:52:59.787Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fc150afe3d3f035ebd631f1c"
+  },
+  "name": "Yaourt nature Soummam x4",
+  "brand": "Soummam",
+  "description": "Yaourt nature brassé sans sucre",
+  "category": "Dairy",
+  "price": 120,
+  "unit": "piece",
+  "stock": 200,
+  "status": "expiring-soon",
+  "expiry": "2025-12-15",
+  "aisle": "B1",
+  "barcode": "6191508000020",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0020/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-01T10:39:54.927Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "14fa63132f83bd792818ed6f"
+  },
+  "name": "Makroud (dattes) x12",
+  "brand": "Local",
+  "description": "Makroud traditionnel aux dattes",
+  "category": "Bakery",
+  "price": 350,
+  "unit": "piece",
+  "stock": 60,
+  "status": "active",
+  "expiry": "2026-02-14",
+  "aisle": "C2",
+  "barcode": "6191508000034",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0034/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs",
+    "Nuts"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-01-22T21:44:47.246Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b159b1ff5a19c0b0226eeb70"
+  },
+  "name": "Eau minérale Lalla Fatma 1.5L",
+  "brand": "Lalla Fatma",
+  "description": "Eau minérale naturelle",
+  "category": "Beverages",
+  "price": 65,
+  "unit": "L",
+  "stock": 500,
+  "status": "active",
+  "expiry": "2027-01-01",
+  "aisle": "D1",
+  "barcode": "6191508000037",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0037/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan",
+    "Gluten-Free"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-03-28T10:52:30.258Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "363b86570dc5239348e4ac2b"
+  },
+  "name": "Limonade Selecto 1.5L",
+  "brand": "Selecto",
+  "description": "Limonade gazeuse citronnée",
+  "category": "Beverages",
+  "price": 120,
+  "unit": "L",
+  "stock": 250,
+  "status": "active",
+  "expiry": "2026-04-30",
+  "aisle": "D1",
+  "barcode": "6191508000039",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0039/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-20T17:44:06.297Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "b684468bf0ae38c6d92cc849"
+  },
+  "name": "Pepsi 1.5L",
+  "brand": "Pepsi",
+  "description": "Boisson gazeuse au cola",
+  "category": "Beverages",
+  "price": 140,
+  "unit": "L",
+  "stock": 300,
+  "status": "active",
+  "expiry": "2026-08-31",
+  "aisle": "D2",
+  "barcode": "6191508000040",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0040/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-23T08:35:45.687Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "54fba1f0846f26326a639ff7"
+  },
+  "name": "Tisane verveine 20 sachets",
+  "brand": "Almarai",
+  "description": "Infusion verveine citron",
+  "category": "Beverages",
+  "price": 155,
+  "unit": "piece",
+  "stock": 110,
+  "status": "active",
+  "expiry": "2026-12-31",
+  "aisle": "D3",
+  "barcode": "6191508000045",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0045/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-18T14:47:57.305Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d92e8b6c6ff8c137c526bae4"
+  },
+  "name": "Thon en boîte Saupiquet 400g",
+  "brand": "Saupiquet",
+  "description": "Thon entier à l'huile d'olive",
+  "category": "Meat",
+  "price": 490,
+  "unit": "g",
+  "stock": 110,
+  "status": "active",
+  "expiry": "2027-06-30",
+  "aisle": "E3",
+  "barcode": "6191508000052",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0052/front_fr.3.400.jpg",
+  "allergens": [
+    "Fish"
+  ],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Gluten-Free"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-05-08T13:12:59.749Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "48cfe6727c4737a4a8206fcc"
+  },
+  "name": "Mousse à raser Gillette 250ml",
+  "brand": "Gillette",
+  "description": "Mousse à raser sensitive",
+  "category": "Beauty",
+  "price": 590,
+  "unit": "ml",
+  "stock": 80,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F3",
+  "barcode": "6191508000063",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0063/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-31T20:50:59.479Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2065ac028bbc5caed4cf2f01"
+  },
+  "name": "Montre connectée Sport",
+  "brand": "Xiaomi",
+  "description": "Smartwatch sport fitness tracker",
+  "category": "Electronics",
+  "price": 8500,
+  "unit": "piece",
+  "stock": 25,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G2",
+  "barcode": "6191508000071",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0071/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-12T03:03:55.900Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "a94b2a26bd1417bf26a5a7b8"
+  },
+  "name": "Support téléphone voiture",
+  "brand": "Baseus",
+  "description": "Support magnétique voiture tableau de bord",
+  "category": "Electronics",
+  "price": 750,
+  "unit": "piece",
+  "stock": 100,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G1",
+  "barcode": "6191508000072",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0072/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-30T17:00:51.219Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ee7f4f6370e4684e6e461224"
+  },
+  "name": "Robe casual femme M",
+  "brand": "Mozah",
+  "description": "Robe casual élégante taille M",
+  "category": "Clothing",
+  "price": 2200,
+  "unit": "piece",
+  "stock": 50,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H1",
+  "barcode": "6191508000078",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0078/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-13T08:15:44.313Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "009c308a52e0a516b5cd40f7"
+  },
+  "name": "Chaussures running homme 42",
+  "brand": "Asics",
+  "description": "Chaussures running amorti gel homme",
+  "category": "Sports",
+  "price": 9500,
+  "unit": "piece",
+  "stock": 20,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I3",
+  "barcode": "6191508000088",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0088/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-01-03T20:27:22.715Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "22e5bdfedef95a3d75532f37"
+  },
+  "name": "Sacs poubelle 30L x30",
+  "brand": "Rolph",
+  "description": "Sacs poubelle noirs 30L",
+  "category": "Home",
+  "price": 160,
+  "unit": "piece",
+  "stock": 300,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J3",
+  "barcode": "6191508000095",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0095/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-01-10T15:24:34.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3c970416a2fd17d0da190419"
+  },
+  "name": "Huile Fleurial 5L",
+  "brand": "Fleurial",
+  "description": "Huile de tournesol raffinée 5L",
+  "category": "Groceries",
+  "price": 1050,
+  "unit": "L",
+  "stock": 120,
+  "status": "active",
+  "expiry": "2026-12-31",
+  "aisle": "A1",
+  "barcode": "6191508000001",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0001/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-12T12:56:35.935Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fff4bf6e9cd659c04e515800"
+  },
+  "name": "Pâtes Tamina 500g",
+  "brand": "Tamina",
+  "description": "Pâtes alimentaires spaghetti",
+  "category": "Groceries",
+  "price": 95,
+  "unit": "g",
+  "stock": 300,
+  "status": "active",
+  "expiry": "2026-08-31",
+  "aisle": "A3",
+  "barcode": "6191508000006",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0006/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-07-16T13:07:34.202Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "7ef8d9ae964b2fae907eb074"
+  },
+  "name": "Harissa Tunisienne 380g",
+  "brand": "Aïcha",
+  "description": "Harissa piquante au piment",
+  "category": "Groceries",
+  "price": 175,
+  "unit": "g",
+  "stock": 160,
+  "status": "active",
+  "expiry": "2026-09-30",
+  "aisle": "A4",
+  "barcode": "6191508000010",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0010/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Vegan",
+    "Halal"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-07-09T05:13:31.898Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "779d5ecc05826a73c26acc48"
+  },
+  "name": "Vermicelle cheveux d'ange 500g",
+  "brand": "Tamina",
+  "description": "Vermicelle fins type cheveux d'ange",
+  "category": "Groceries",
+  "price": 85,
+  "unit": "g",
+  "stock": 180,
+  "status": "active",
+  "expiry": "2026-08-31",
+  "aisle": "A3",
+  "barcode": "6191508000017",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0017/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-02T17:08:01.255Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "fdaa1a5e05cc406335f11952"
+  },
+  "name": "Lait UHT Candia 1L",
+  "brand": "Candia",
+  "description": "Lait entier UHT longue conservation",
+  "category": "Dairy",
+  "price": 145,
+  "unit": "L",
+  "stock": 300,
+  "status": "expiring-soon",
+  "expiry": "2025-12-31",
+  "aisle": "B1",
+  "barcode": "6191508000019",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0019/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-08-12T17:12:53.423Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "480476c98c04d807e71bbeb6"
+  },
+  "name": "Beurre doux CEVITAL 250g",
+  "brand": "CEVITAL",
+  "description": "Beurre doux pasteurisé",
+  "category": "Dairy",
+  "price": 290,
+  "unit": "g",
+  "stock": 120,
+  "status": "active",
+  "expiry": "2026-02-28",
+  "aisle": "B2",
+  "barcode": "6191508000022",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0022/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian",
+    "Keto"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-07-20T14:20:05.822Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "97e1d3b93de111b6b3a2a56d"
+  },
+  "name": "Lben Soummam 1L",
+  "brand": "Soummam",
+  "description": "Lait fermenté algérien traditionnel",
+  "category": "Dairy",
+  "price": 130,
+  "unit": "L",
+  "stock": 160,
+  "status": "active",
+  "expiry": "2026-01-10",
+  "aisle": "B1",
+  "barcode": "6191508000024",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0024/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-03-15T16:42:31.914Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "08ed2d745ef075572f797698"
+  },
+  "name": "Yaourt aromatisé Danone x4",
+  "brand": "Danone",
+  "description": "Yaourt aromatisé aux fruits",
+  "category": "Dairy",
+  "price": 180,
+  "unit": "piece",
+  "stock": 150,
+  "status": "expiring-soon",
+  "expiry": "2025-12-25",
+  "aisle": "B1",
+  "barcode": "6191508000026",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0026/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-22T19:36:07.690Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69ab63e03a7ad3850772b2e5"
+  },
+  "name": "Fromage Ras Jebel 400g",
+  "brand": "Local",
+  "description": "Fromage frais local artisanal",
+  "category": "Dairy",
+  "price": 440,
+  "unit": "g",
+  "stock": 60,
+  "status": "active",
+  "expiry": "2026-01-15",
+  "aisle": "B2",
+  "barcode": "6191508000028",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0028/front_fr.3.400.jpg",
+  "allergens": [
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-02-06T18:35:04.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "ae0ff0a23adcf0f9fb3de6f6"
+  },
+  "name": "Kahk (gâteaux aux dattes) 300g",
+  "brand": "Local",
+  "description": "Gâteaux aux dattes traditionnels",
+  "category": "Bakery",
+  "price": 320,
+  "unit": "g",
+  "stock": 70,
+  "status": "active",
+  "expiry": "2026-02-28",
+  "aisle": "C1",
+  "barcode": "6191508000031",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0031/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-21T12:44:18.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "03c9b0c7a5ecd23ea592dff7"
+  },
+  "name": "Croissants feuilletés x6",
+  "brand": "Moulin d'Or",
+  "description": "Croissants au beurre feuilletés",
+  "category": "Bakery",
+  "price": 290,
+  "unit": "piece",
+  "stock": 90,
+  "status": "expiring-soon",
+  "expiry": "2025-12-18",
+  "aisle": "C1",
+  "barcode": "6191508000032",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0032/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs",
+    "Lactose"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-04-23T21:33:34.939Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6d8b261b3180cff5559e8a48"
+  },
+  "name": "Galette kabyle maison 500g",
+  "brand": "Artisanal",
+  "description": "Galette traditionnelle kabyle au son",
+  "category": "Bakery",
+  "price": 200,
+  "unit": "g",
+  "stock": 50,
+  "status": "expiring-soon",
+  "expiry": "2025-12-19",
+  "aisle": "C2",
+  "barcode": "6191508000035",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0035/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-05T11:03:17.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "d09c5074f162959576a000eb"
+  },
+  "name": "Biscuits Chamonix 200g",
+  "brand": "Chamonix",
+  "description": "Biscuits secs à la vanille",
+  "category": "Bakery",
+  "price": 145,
+  "unit": "g",
+  "stock": 160,
+  "status": "active",
+  "expiry": "2026-05-31",
+  "aisle": "C2",
+  "barcode": "6191508000036",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0036/front_fr.3.400.jpg",
+  "allergens": [
+    "Gluten",
+    "Eggs"
+  ],
+  "suitableFor": [
+    "Halal",
+    "Vegetarian"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-05-27T05:33:15.096Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T21:37:42.166Z"
+  },
+  "avgRating": 4,
+  "ratingsCount": 26
+},
+{
+  "_id": {
+    "$oid": "431d950c8e18943f874e2d0e"
+  },
+  "name": "Smoothie mangue-ananas 500ml",
+  "brand": "Cojek",
+  "description": "Smoothie exotique mangue ananas",
+  "category": "Beverages",
+  "price": 245,
+  "unit": "ml",
+  "stock": 90,
+  "status": "active",
+  "expiry": "2026-01-31",
+  "aisle": "D1",
+  "barcode": "6191508000046",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0046/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "Vegan",
+    "Gluten-Free"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-08-31T01:45:03.213Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "be35417c93241dc524d9f4f4"
+  },
+  "name": "Escalope de dinde 500g",
+  "brand": "AVICOOP",
+  "description": "Escalope de dinde fraîche halal",
+  "category": "Meat",
+  "price": 620,
+  "unit": "g",
+  "stock": 55,
+  "status": "expiring-soon",
+  "expiry": "2025-12-19",
+  "aisle": "E2",
+  "barcode": "6191508000050",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0050/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Halal",
+    "High-Protein",
+    "Low-Carb"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-19T18:36:51.945Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "de490e7e1ef888aafff32376"
+  },
+  "name": "Sardines à l'huile Aïcha 125g",
+  "brand": "Aïcha",
+  "description": "Sardines à l'huile de tournesol en boîte",
+  "category": "Meat",
+  "price": 165,
+  "unit": "g",
+  "stock": 200,
+  "status": "active",
+  "expiry": "2027-01-31",
+  "aisle": "E3",
+  "barcode": "6191508000054",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0054/front_fr.3.400.jpg",
+  "allergens": [
+    "Fish"
+  ],
+  "suitableFor": [
+    "Halal",
+    "High-Protein"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-11-02T01:14:37.725Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "33f7863e85584ac3663ec6de"
+  },
+  "name": "Dentifrice Colgate 125ml",
+  "brand": "Colgate",
+  "description": "Dentifrice protection caries 3en1",
+  "category": "Beauty",
+  "price": 320,
+  "unit": "ml",
+  "stock": 130,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F3",
+  "barcode": "6191508000060",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0060/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-05-16T15:06:08.820Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "dd4084b843eaa698f034215c"
+  },
+  "name": "Après-shampoing Elsève 200ml",
+  "brand": "L'Oréal",
+  "description": "Après-shampoing démêlant lissant",
+  "category": "Beauty",
+  "price": 780,
+  "unit": "ml",
+  "stock": 75,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F1",
+  "barcode": "6191508000061",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0061/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-11-05T21:30:08.516Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "abbd78a54fb369b5d9e254a9"
+  },
+  "name": "Crème mains Vaseline 200ml",
+  "brand": "Vaseline",
+  "description": "Crème réparatrice mains sèches",
+  "category": "Beauty",
+  "price": 420,
+  "unit": "ml",
+  "stock": 110,
+  "status": "active",
+  "expiry": "",
+  "aisle": "F1",
+  "barcode": "6191508000062",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0062/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-01-11T17:49:42.045Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "9884767dd279049715729906"
+  },
+  "name": "Câble USB-C 1m",
+  "brand": "Samsung",
+  "description": "Câble USB-C charge rapide 1 mètre",
+  "category": "Electronics",
+  "price": 450,
+  "unit": "piece",
+  "stock": 150,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G1",
+  "barcode": "6191508000065",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0065/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-09-05T11:20:57.928Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "2890f1faf63617c433bc7e02"
+  },
+  "name": "Chargeur rapide 20W",
+  "brand": "Baseus",
+  "description": "Chargeur rapide 20W USB-C PD",
+  "category": "Electronics",
+  "price": 1200,
+  "unit": "piece",
+  "stock": 80,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G1",
+  "barcode": "6191508000066",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0066/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-03-17T17:16:24.657Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "f0f7c53d8d5eaeb0074728e3"
+  },
+  "name": "Batterie externe 10000mAh",
+  "brand": "Baseus",
+  "description": "Power bank 10000mAh charge rapide",
+  "category": "Electronics",
+  "price": 2200,
+  "unit": "piece",
+  "stock": 55,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G2",
+  "barcode": "6191508000068",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0068/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-28T04:11:41.085Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "e0433817fb507e247adc4723"
+  },
+  "name": "Adaptateur secteur multiprise",
+  "brand": "Supra",
+  "description": "Multiprise 4 prises + 2 USB",
+  "category": "Electronics",
+  "price": 890,
+  "unit": "piece",
+  "stock": 70,
+  "status": "active",
+  "expiry": "",
+  "aisle": "G1",
+  "barcode": "6191508000069",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0069/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-10-27T03:43:02.164Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T14:27:36.010Z"
+  },
+  "avgRating": 3,
+  "ratingsCount": 2
+},
+{
+  "_id": {
+    "$oid": "38d60394e768055361ec5907"
+  },
+  "name": "T-shirt coton homme L",
+  "brand": "Cotoon",
+  "description": "T-shirt 100% coton col rond homme",
+  "category": "Clothing",
+  "price": 1200,
+  "unit": "piece",
+  "stock": 80,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H1",
+  "barcode": "6191508000073",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0073/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-28T10:45:33.012Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "8ce8a158d10fddcbf771a2bb"
+  },
+  "name": "Hijab jersey premium",
+  "brand": "Mozah",
+  "description": "Hijab stretch confortable",
+  "category": "Clothing",
+  "price": 850,
+  "unit": "piece",
+  "stock": 120,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H1",
+  "barcode": "6191508000074",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0074/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-05T21:44:17.047Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673d45d722dba14ef1486f1a"
+  },
+  "name": "Chaussettes coton x5 paires",
+  "brand": "ITELVO",
+  "description": "Lot 5 paires chaussettes coton",
+  "category": "Clothing",
+  "price": 580,
+  "unit": "piece",
+  "stock": 200,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H2",
+  "barcode": "6191508000075",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0075/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-15T11:19:58.770Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "1bb37495d707f243406a804a"
+  },
+  "name": "Veste légère imperméable",
+  "brand": "Cotoon",
+  "description": "Veste coupe-vent légère",
+  "category": "Clothing",
+  "price": 3500,
+  "unit": "piece",
+  "stock": 40,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H2",
+  "barcode": "6191508000076",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0076/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-05-10T06:41:40.426Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bb01f22c36e500ab834b0f2c"
+  },
+  "name": "Pyjama enfant 2-8ans",
+  "brand": "ITELVO",
+  "description": "Pyjama coton doux enfant",
+  "category": "Clothing",
+  "price": 1450,
+  "unit": "piece",
+  "stock": 65,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H3",
+  "barcode": "6191508000077",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0077/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-26T04:30:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "13bad7f7e5daed26aa841dd8"
+  },
+  "name": "Ceinture cuir homme",
+  "brand": "Local",
+  "description": "Ceinture cuir véritable artisanale",
+  "category": "Clothing",
+  "price": 900,
+  "unit": "piece",
+  "stock": 75,
+  "status": "active",
+  "expiry": "",
+  "aisle": "H2",
+  "barcode": "6191508000079",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0079/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-04-26T05:46:27.989Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "bd58e3158b48fad3efd02d93"
+  },
+  "name": "Corde à sauter professionnelle",
+  "brand": "Phoenix",
+  "description": "Corde à sauter avec poignées",
+  "category": "Sports",
+  "price": 650,
+  "unit": "piece",
+  "stock": 80,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I1",
+  "barcode": "6191508000082",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0082/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2024-05-04T15:17:14.474Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "122261daac0fe795b6d874f2"
+  },
+  "name": "Tapis de yoga 6mm",
+  "brand": "Phoenix",
+  "description": "Tapis antidérapant 6mm yoga pilates",
+  "category": "Sports",
+  "price": 1800,
+  "unit": "piece",
+  "stock": 55,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I2",
+  "barcode": "6191508000083",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0083/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport",
+    "Yoga"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-11-14T05:13:09.370Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "3c38c51ad6c650dbb2c998ba"
+  },
+  "name": "Gourde sport 750ml",
+  "brand": "Decathlon",
+  "description": "Gourde inox sans BPA",
+  "category": "Sports",
+  "price": 650,
+  "unit": "ml",
+  "stock": 90,
+  "status": "active",
+  "expiry": "",
+  "aisle": "I1",
+  "barcode": "6191508000084",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0084/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [
+    "Sport"
+  ],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-01-04T10:11:06.394Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "62d287abe3f1ec6b977ddb19"
+  },
+  "name": "Papier hygiénique Softis x12",
+  "brand": "Softis",
+  "description": "Papier hygiénique 3 plis lot de 12",
+  "category": "Home",
+  "price": 380,
+  "unit": "piece",
+  "stock": 200,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J2",
+  "barcode": "6191508000092",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0092/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-12-13T22:02:18.307Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "297c947f4f6fba0ef6acf384"
+  },
+  "name": "Bougies parfumées x3",
+  "brand": "Yankee",
+  "description": "Set 3 bougies parfumées vanille",
+  "category": "Home",
+  "price": 890,
+  "unit": "piece",
+  "stock": 60,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J3",
+  "barcode": "6191508000096",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0096/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-06-14T23:08:06.420Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "dca9362fa1f19b087dd79988"
+  },
+  "name": "Cafetière électrique 1.2L",
+  "brand": "Moulinex",
+  "description": "Cafetière filtre programmable 1.2L",
+  "category": "Home",
+  "price": 4200,
+  "unit": "piece",
+  "stock": 30,
+  "status": "active",
+  "expiry": "",
+  "aisle": "J4",
+  "barcode": "6191508000098",
+  "imageUrl": "https://images.openfoodfacts.org/images/products/619/150/800/0098/front_fr.3.400.jpg",
+  "allergens": [],
+  "suitableFor": [],
+  "isAvailable": true,
+  "createdAt": {
+    "$date": "2023-08-09T05:58:55.223Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-16T21:21:47.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e633a10aaf3a44447eb878"
+  },
+  "name": "l'eau el kantra",
+  "category": "Boissons",
+  "price": 30,
+  "stock": 100,
+  "expiry": "2027-04-20",
+  "aisle": "A1",
+  "status": "active",
+  "barcode": "6130131000021",
+  "createdAt": {
+    "$date": "2026-04-20T14:09:37.552Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-20T14:09:37.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e6370fe80cf63542b86c15"
+  },
+  "name": "Après rasage",
+  "category": "Épicerie",
+  "price": 350,
+  "stock": 1000,
+  "expiry": "2026-08-15",
+  "aisle": "C1",
+  "status": "active",
+  "barcode": "6130271000158",
+  "createdAt": {
+    "$date": "2026-04-20T14:24:15.286Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-20T14:24:15.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e74e655051dcf98790553d"
+  },
+  "name": "eau ifri",
+  "category": "Boissons",
+  "price": 30,
+  "stock": 1000,
+  "expiry": "2028-04-21",
+  "aisle": "A0",
+  "status": "active",
+  "barcode": "6130093010045",
+  "createdAt": {
+    "$date": "2026-04-21T10:16:05.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T10:16:05.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e74fc7d6a19a28efcbad3b"
+  },
+  "name": "Stylo Claro mauve ",
+  "category": "Épicerie",
+  "price": 35,
+  "stock": 100,
+  "expiry": "2030-04-21",
+  "aisle": "B1",
+  "status": "active",
+  "barcode": "8907016041091",
+  "createdAt": {
+    "$date": "2026-04-21T10:21:59.280Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-21T10:21:59.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ebafd06d471396383cbbe4"
+  },
+  "name": "Khaled Juice",
+  "category": "Boissons",
+  "price": 15000,
+  "stock": 12,
+  "expiry": "2003-02-02",
+  "aisle": "A3",
+  "status": "active",
+  "barcode": "6130093067940",
+  "createdAt": {
+    "$date": "2026-04-24T18:00:48.374Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-24T18:00:48.374Z"
+  },
+  "__v": 0
+}]
